@@ -1,5 +1,9 @@
 #include <stdlib.>
 
-int test(){
+int test(int argc, char* argv[]){
+  
+  
+  
+  
   
 }
